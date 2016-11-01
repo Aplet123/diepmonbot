@@ -11,7 +11,7 @@
     "install": "node bot.js"
   },
   "dependencies": {
-    "discord.js":"^10.0.1",
+    "discord.js":"^8.2.0",
     "ejs": "~1.0.0",
     "express": "~4.9.8"
   },
