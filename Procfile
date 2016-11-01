@@ -1,1 +1,1 @@
-node battlebot.js
+node bot.js
