@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "install": "node battlebot.js"
+    "install": "node bot.js"
   },
   "dependencies": {
     "discord.js":"^10.0.1",
