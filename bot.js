@@ -5,7 +5,7 @@ var chatlog = true;
 var maintenance = false;
 var gregid = "192571625885925376";
 var botid = "230125228414468096";
-var staffroles = ["204313198256455691", "226466022297698306"];
+var staffroles = ["204313198256455691", "226466022297698306", "201765854990434304"];
 var tankCommands = [";TANKBASIC", ";TANKTWIN", ";SOMETANKTEST"];
 var tankDescript = [
     "https://cdn.discordapp.com/attachments/226287186255937536/230086729640574976/650.png\n**`TANK`** `[Normal Type]`\n\n**`ABILITIES`**\n*`Run Away - Enables a sure getaway.`*\n\n**`STATS`**\n**`HP`** `45`\n**`ATTACK`** `45`\n**`DEFENSE`** `45`\n**`SP. ATTACK`** `45`\n**`SP. DEFENSE`** `45`\n**`SPEED`** `45`\n\n**`EVOLUTIONS`**\n**Twin** `Twin Bullets`\n**Sniper** `Snipe`\n**Machine Gun** `Machine Bullets`\n**Flank Guard** `Flank Shot`\n**Smasher** `Smash`",
